@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FLTK.NET", "FLTK.NET\FLTK.NET.csproj", "{981590F3-35C1-495F-BF5C-037055EA6F22}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{50DA8BEC-21CD-4EA8-8E15-B7C51ECD0999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FLTK.HelloWorld", "FLTK.HelloWorld\FLTK.HelloWorld.csproj", "{37C22672-2416-4EDA-94E6-F37613D2AC13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FLTK.NET.Native", "FLTK.NET.Native\FLTK.NET.Native.csproj", "{DA86A9A3-1A84-4984-ACDB-26C5D3AECED7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{981590F3-35C1-495F-BF5C-037055EA6F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981590F3-35C1-495F-BF5C-037055EA6F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{981590F3-35C1-495F-BF5C-037055EA6F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{981590F3-35C1-495F-BF5C-037055EA6F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37C22672-2416-4EDA-94E6-F37613D2AC13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C22672-2416-4EDA-94E6-F37613D2AC13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C22672-2416-4EDA-94E6-F37613D2AC13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C22672-2416-4EDA-94E6-F37613D2AC13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA86A9A3-1A84-4984-ACDB-26C5D3AECED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA86A9A3-1A84-4984-ACDB-26C5D3AECED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA86A9A3-1A84-4984-ACDB-26C5D3AECED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA86A9A3-1A84-4984-ACDB-26C5D3AECED7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{37C22672-2416-4EDA-94E6-F37613D2AC13} = {50DA8BEC-21CD-4EA8-8E15-B7C51ECD0999}
+	EndGlobalSection
+EndGlobal

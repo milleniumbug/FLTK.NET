@@ -1,0 +1,8 @@
+{
+  "inputFilePath": "ffi/cross-platform-ast.json",
+  "outputFileDirectory": ".",
+  "className": "FLTKNative",
+  "libraryName": "cfltk2",
+  "namespaceName": "FLTK.NET",
+  "targetFrameworkMoniker": "net8.0"
+}
